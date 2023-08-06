@@ -61,3 +61,9 @@ function removeDuplicates(nums) {
     // Return the number of unique elements (k)
     return uniqueCount;
   }
+
+//Example #1:
+const nums = [1, 1, 2];
+const k = removeDuplicates(nums);
+console.log(k); // Output: 2
+console.log(nums.slice(0, k)); // Output: [1, 2]
