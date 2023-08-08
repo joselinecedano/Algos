@@ -1,1 +1,1 @@
-# Algos
+# LeetCode/ HackerRank practice
