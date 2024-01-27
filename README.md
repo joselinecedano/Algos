@@ -1,6 +1,6 @@
 <img src= "https://clipartix.com/wp-content/uploads/2018/03/thinking-gif-2018-1.gif" alt="thinking-gif" width="1000"/>
 
-# Algorithm Practice Repository
+# Algorithm Practice 
 
 Welcome to my Algorithm Practice Repository! This repository is dedicated to practicing and improving my algorithmic problem-solving skills.
 
